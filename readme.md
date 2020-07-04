@@ -1,45 +1,36 @@
-# Ask me anything!
+# Ask me anything! Pregunta lo que quieras
 
-## [Ask a question](https://github.com/kentcdodds/ama/issues/new) &nbsp;&nbsp;&nbsp; [Read answered questions](https://github.com/kentcdodds/ama/issues?q=is%3Aissue+is%3Aclosed)
+## [Hacer una pregunta](https://github.com/matiasfha/ama/issues/new) &nbsp;&nbsp;&nbsp; [Leer respuestas](https://github.com/matiasfha/ama/issues?q=is%3Aissue+is%3Aclosed)
 
-See my [favorite/popular/frequently asked](https://github.com/kentcdodds/ama/issues?utf8=%E2%9C%93&q=label%3A%22favorite%2Fpopular%2Ffrequently%20asked%22%20) questions. There are also other [labels](https://github.com/kentcdodds/ama/labels) to sort the questions by ([work in progress](https://github.com/kentcdodds/ama/issues/424)).
+Puedes encontrar mis preguntas [favoritas/populares/frequentes](https://github.com/matiasfha/ama/issues?utf8=%E2%9C%93&q=label%3A%22favorite%2Fpopular%2Ffrequently%20asked%22%20).
 
-I get a lot of questions by email but responding to an email only helps one person. This way anyone can read the answer.
+La idea de usar este repositorio es para que si existe una pregunta, poder compartir la respuesta con la mayor cantidad de personas posible, de esa manera aumentar la posibilidad de ayudar a alguien más.
 
-**If you'd rather not ask your question publicly**, send me an [email](mailto:me+ama@kentcdodds.com) and I can post the question anonymously for you.
+**Pero si prefieres hacer tu pregunta de forma privada**, envía un email a [email](mailto:matiasfh+ama@gmail.com) y te responderé personalmente
 
-Subscribe for updates by [watching the repo](https://github.com/kentcdodds/ama/subscription).
+Suscribite a las actualziaciones  [watching the repo](https://github.com/matiasfha/ama/subscription).
 
-Anything means anything. Personal questions. Money. Life. Code. Whatever.
+La idea de un AMA es que puedas preguntar lo que quieras. Preguntas peronsales. De la Vida. Codigo. Lo que sea.
 
 #### Guidelines
 
-- Ensure your question hasn't already been answered.
-- Use a succinct title and description.
-- Bugs & feature requests should be opened on the relevant issue tracker.
-- Support questions are better asked on Stack Overflow.
-- Be civil and polite :)
-- I will not help you with a question that goes against my personal moral standards.
+- Asegurate de que tu pregunta no haya sido respondida anteriormente.
+- Usa un titulo descriptivo pero sucinto.
+- Preguntas de soporte o de dudas de código es mejor hacerlas en sitios como Stack Overflow.
+- Se empático y civilizado xD 
+- No contestaré preguntas que vallan en contra de mis estándares morales, éticos o humanos.
 
-#### Disclaimer
+##### Formato de respuestas
 
-##### Answers from me
-
-All questions are welcome but not all questions will be answered by me. Some questions may be answered by volunteers helping me. Others may not be answered at all. To increase the likelyhood of me answering your question it should:
-
-- Be relevant to me or my opinions in some way and not something anyone could answer (those are better served by [StackOverflow](https://stackoverflow.com/), etc).
-- Be helpful or interesting for other people. I prefer this medium to email because my time spent answering these questions helps more people. Answers that only help the asker are not an efficient use of my time and may not be answered. Read: ["Hi, thanks for reaching out to me 👋"](http://kcd.im/no-time).
-
-##### Answer format
-
-Some answers may be in the form of [audio clips](https://github.com/kentcdodds/ama/issues?q=label%3Aaudio-answer) or [videos](https://github.com/kentcdodds/ama/issues?q=label%3Avideo-answer). This is not meant to exclude anyone. I wouldn't have time to answer these questions at all otherwise. Anyone is welcome and encouraged to transcribe these answers and leave a comment so that everyone can benefit from the answers.
+Algunas respuestas podran ir en formato de [audio clips](https://github.com/matiasfha/ama/issues?q=label%3Aaudio-answer) o [videos](https://github.com/matiasfha/ama/issues?q=label%3Avideo-answer). Y algunas de estas preguntas podrán ser respondidas en alguno de mis podcasts: [Café
+ con Tech](http://buzzsprout.com/1081172) o (Control Remoto)[http://controlremoto.buzzsprout.com]
 
 #### Other contact mediums
 
-I can also be reached on [Twitter](https://twitter.com/kentcdodds) and [email](mailto:me+ama@kentcdodds.com), but I prefer [this medium](https://github.com/kentcdodds/ama/issues/new).
+También me pudes contactar vía [Twitter](https://twitter.com/matiasfha), [Instagram](https://instagram.com/matiasfha) o [email](mailto:matiasfh+ama@gmail.com), pero prefiero este medio [this medium](https://github.com/matiasfha/ama/issues/new).
 
 ### Links
 
-- [Read more AMAs](https://github.com/sindresorhus/amas)
+- [Read more AMAs](https://github.com/kentcdodds/amas)
 - [Create your own AMA](../../fork)
 - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
