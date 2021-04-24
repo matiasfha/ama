@@ -27,10 +27,9 @@ Algunas respuestas podran ir en formato de [audio clips](https://github.com/mati
 
 #### Other contact mediums
 
-También me pudes contactar vía [Twitter](https://twitter.com/matiasfha), [Instagram](https://instagram.com/matiasfha) o [email](mailto:matiasfh+ama@gmail.com), pero prefiero este medio [this medium](https://github.com/matiasfha/ama/issues/new).
+También me pudes contactar vía [Twitter](https://twitter.com/matiasfha) o [email](mailto:matiasfh+ama@gmail.com), pero prefiero [este medio](https://github.com/matiasfha/ama/issues/new).
 
 ### Links
 
-- [Read more AMAs](https://github.com/kentcdodds/amas)
 - [Create your own AMA](../../fork)
 - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
